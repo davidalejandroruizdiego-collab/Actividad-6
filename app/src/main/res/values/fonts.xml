@@ -1,0 +1,4 @@
+<resources>
+    <string name="font_title">@font/cinzel_regular</string>
+    <string name="font_body">@font/montserrat_regular</string>
+</resources>

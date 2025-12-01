@@ -1,19 +1,10 @@
 <resources>
-    <string name="app_name">AgendaPickers</string>
-
-    <string name="label_categoria">Categoría</string>
-    <string name="label_fecha">Fecha</string>
-    <string name="label_hora">Hora</string>
-    <string name="hint_descripcion">Descripción (ej. Reunión con equipo)</string>
-    <string name="cd_pick_fecha">Elegir fecha</string>
-    <string name="cd_pick_hora">Elegir hora</string>
-    <string name="cd_agregar">Agregar elemento</string>
-    <string name="cd_limpiar">Limpiar lista</string>
-
-    <string-array name="categorias">
-        <item>Trabajo</item>
-        <item>Estudio</item>
-        <item>Personal</item>
-        <item>Salud</item>
-    </string-array>
+    <string name="app_name">Lucifer\'s Realm</string>
+    <string name="scene1_title">Escena 1: Lucifer Acechando en la Cocina</string>
+    <string name="scene1_desc">En las sombras de la humilde cocina de Cenicienta, Lucifer, el gato siamés de Lady Tremaine, acecha con ojos brillantes y garras afiladas. Mientras Jaq y Gus, los valientes ratoncitos, planean su escape con un botón robado, Lucifer salta sigilosamente sobre la mesa, listo para frustrar sus sueños. El aire está cargado de tensión: un maullido suave rompe el silencio, y la persecución comienza. ¡Siente el pulso acelerado de esta escena icónica, donde la maldad felina choca con la ingeniosidad de los pequeños héroes!</string>
+    <string name="next">Viajar al Palacio Real</string>
+    <string name="scene2_title">Escena 2: Lucifer en el Palacio Real</string>
+    <string name="scene2_desc">Bajo las luces cristalinas del gran palacio, donde Cenicienta baila con el Príncipe en un torbellino de magia, Lucifer irrumpe en la escalera principal. Con su cola erguida y un gruñido juguetón, el gato malvado sube los peldaños, persiguiendo una sombra fugaz. Lady Tremaine lo observa con una sonrisa siniestra, mientras el reloj marca la medianoche. Esta escena captura el caos cómico y amenazante: Lucifer, el rey de las travesuras, casi arruina el cuento de hadas perfecto. ¡Sumérgete en el glamour y el peligro de la noche real!</string>
+    <string name="back">Regresar a la Cocina</string>
+    <string name="to_scene1">Navegar a la primera escena</string>
 </resources>
