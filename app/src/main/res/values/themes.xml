@@ -1,9 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Act6_0" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Theme.MagicScenes" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/md_bg</item>
+        <item name="android:navigationBarColor">@color/md_bg</item>
+        <item name="android:windowBackground">@color/md_bg</item>
+        <item name="colorPrimary">@color/md_primary</item>
+        <item name="colorSecondary">@color/md_secondary</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:textColorPrimary">@color/md_text</item>
+        <item name="android:textColorSecondary">@color/md_text</item>
     </style>
-
-    <style name="Theme.Act6_0" parent="Base.Theme.Act6_0" />
 </resources>
